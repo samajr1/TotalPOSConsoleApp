@@ -1,0 +1,16 @@
+C:\Users\sableson\source\repos\TotalPOSConsoleApp\TotalPOSConsoleApp\bin\Debug\net5.0\TotalPOSConsoleApp.exe
+C:\Users\sableson\source\repos\TotalPOSConsoleApp\TotalPOSConsoleApp\bin\Debug\net5.0\TotalPOSConsoleApp.deps.json
+C:\Users\sableson\source\repos\TotalPOSConsoleApp\TotalPOSConsoleApp\bin\Debug\net5.0\TotalPOSConsoleApp.runtimeconfig.json
+C:\Users\sableson\source\repos\TotalPOSConsoleApp\TotalPOSConsoleApp\bin\Debug\net5.0\TotalPOSConsoleApp.runtimeconfig.dev.json
+C:\Users\sableson\source\repos\TotalPOSConsoleApp\TotalPOSConsoleApp\bin\Debug\net5.0\TotalPOSConsoleApp.dll
+C:\Users\sableson\source\repos\TotalPOSConsoleApp\TotalPOSConsoleApp\bin\Debug\net5.0\ref\TotalPOSConsoleApp.dll
+C:\Users\sableson\source\repos\TotalPOSConsoleApp\TotalPOSConsoleApp\bin\Debug\net5.0\TotalPOSConsoleApp.pdb
+C:\Users\sableson\source\repos\TotalPOSConsoleApp\TotalPOSConsoleApp\obj\Debug\net5.0\TotalPOSConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sableson\source\repos\TotalPOSConsoleApp\TotalPOSConsoleApp\obj\Debug\net5.0\TotalPOSConsoleApp.AssemblyInfoInputs.cache
+C:\Users\sableson\source\repos\TotalPOSConsoleApp\TotalPOSConsoleApp\obj\Debug\net5.0\TotalPOSConsoleApp.AssemblyInfo.cs
+C:\Users\sableson\source\repos\TotalPOSConsoleApp\TotalPOSConsoleApp\obj\Debug\net5.0\TotalPOSConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\sableson\source\repos\TotalPOSConsoleApp\TotalPOSConsoleApp\obj\Debug\net5.0\TotalPOSConsoleApp.dll
+C:\Users\sableson\source\repos\TotalPOSConsoleApp\TotalPOSConsoleApp\obj\Debug\net5.0\ref\TotalPOSConsoleApp.dll
+C:\Users\sableson\source\repos\TotalPOSConsoleApp\TotalPOSConsoleApp\obj\Debug\net5.0\TotalPOSConsoleApp.pdb
+C:\Users\sableson\source\repos\TotalPOSConsoleApp\TotalPOSConsoleApp\obj\Debug\net5.0\TotalPOSConsoleApp.genruntimeconfig.cache
+C:\Users\sableson\source\repos\TotalPOSConsoleApp\TotalPOSConsoleApp\obj\Debug\net5.0\TotalPOSConsoleApp.csproj.AssemblyReference.cache
